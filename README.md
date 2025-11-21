@@ -1,4 +1,4 @@
-# Temple Database Management System
+# Temple Database Management System - Spring Boot
 
 A full-stack temple management application built with Spring Boot and React for managing temple operations including members, staff, volunteers, poojas, halls, and bookings.
 
